@@ -1,10 +1,9 @@
-icecream
+icecream-erlang
 =====
 
-An OTP application
+An Erlang port of Python's [IceCream](https://github.com/gruns/icecream).
 
 Build
 -----
 
-    $ rebar3 compile
-# icecream-erlang
+    $ make
